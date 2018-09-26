@@ -1,0 +1,12 @@
+{
+  "id": "synomailplus",
+  "name": "Synology MailPlus",
+  "version": "0.1.0",
+  "description": "Synology MailPlus",
+  "main": "index.js",
+  "author": "David Grimbichler <david@grimbichler.ch>",
+  "license": "MIT",
+  "config": {
+    "hasCustomUrl": true
+  }
+}
